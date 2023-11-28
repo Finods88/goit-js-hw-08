@@ -1,6 +1,8 @@
 .feedback-form {
   display: flex;
+  justify-content: center;
   flex-direction: column;
+
   max-width: 480px;
   padding: 12px;
   background-color: #fff;
